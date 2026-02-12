@@ -1,0 +1,10 @@
+# Dado un número de dos cifras, diseÃ±e un algoritmo que permita obtener el 
+# número invertido. 
+
+num = int(input("Dime un numero de dos cifras :"))
+
+decenas = num//10;
+unidades = num % 10 ;
+
+print("Primera cifra decenas :" , decenas)
+print("Segunda cifra unidades: " , unidades)
