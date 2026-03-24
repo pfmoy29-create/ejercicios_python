@@ -3,8 +3,8 @@
 # funcion input()
 
 name = input ("Quien eres?")
-print("Hola ERES MUY GUAPO", name)
+print("Hola ERES MUY GUAPA", name)
 
-print( "Hola ERES MUY GUAPO" + name)
+print( "Hola ERES MUY GUAPA" + name)
 
-print("Hola ERES MUY GUAPO"  + name)
+print("Hola ERES MUY GUAPA"  + name)
